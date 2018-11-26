@@ -1,6 +1,6 @@
 {"version_code":451209,"content":"
 
-<p>تحديث 10.30 (Update)</p>
+<p>تحديث 1.10 (Update)</p>
 
 <li> التحديث لنسخة الماركت 2.18.327</li>
 
@@ -66,6 +66,6 @@
 
 <li> Many Other Fixes</li>
 
-","url":"https://www.3ssem.com/2018/11/agwhatsapp-v10-30.html"
+","url":"https://www.3ssem.com/2018/11/ag3whatsapp-v1-10.html"
 
 }
