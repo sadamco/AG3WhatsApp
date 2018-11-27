@@ -6,6 +6,8 @@
 
 <li> تفعيل ميزة الملصقات يمكنك الآن تنزيل الملصقات المعبرة واستخدامها في الدردشات</li>
 
+<li> اضافة ميزة الرجوع الى الفيسات القديمه</li>
+
 <li> (حصرياً) إضافة اشارة في حال قام احد ما بعمل منشن @ لك او رد على رسائلك في المجموعة</li>
 
 <li> (حصرياً) لن تظهر معاد توجيهها عند الطرف الاخر في حال قمت بعمل اعادة توجيه لرسالة ما</li>
@@ -39,6 +41,8 @@
 <li> New Base Updated to 2.18.327</li>
 
 <li> Enabled Stickers</li>
+
+<li> Add Option to Change Emoji</li>
 
 <li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
 
