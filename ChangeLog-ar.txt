@@ -6,10 +6,10 @@
 
 <li>يرجى تحميل هذا التحديث بسرعه قبل الحظر والذين قاموا بتحميل التحديث سابقا يرجى التحميل مجددا لتفادي الحظر النهائي</li>
 
-<li> Anti-Ban (Please take Backup - Uninstall App / Install AG3WhatsApp v1.40)</li>
+<li> Anti-Ban (Please take Backup - Uninstall App / Install SCWhatsApp v1.40)</li>
 
 <li> Please Download this update quickly before the ban and those who have to download the update previously please download again to avoid the ban the final</li>
 
-","url":"https://www.3ssem.com/2019/06/ag3whatsapp-1-40.html"
+","url":"https://sadam1co.blogspot.com/2018/11/blog-post_3.html?m=1"
 
 }
